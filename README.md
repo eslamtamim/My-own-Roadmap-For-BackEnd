@@ -6,7 +6,7 @@ here is evey thing i'm currenly learning to become a backend dev/eng
 Project is to make this a roadmap for people to follow along 
 
 # Unit Testing: 
-https://www.youtube.com/watch?v=3kzHmaeozDI
+https://youtu.be/3kzHmaeozDI
 
 https://www.youtube.com/watch?v=B9rLLcVQfpI
 
