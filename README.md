@@ -46,7 +46,8 @@ https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ
 
 https://www.youtube.com/playlist?list=PLn05u4nMKcB-1BSfb3L-09hkcSgNZHrv7
 
-- Structural: 
+- Structural:
+ 
 https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm
 
 https://www.youtube.com/playlist?list=PLn05u4nMKcB_QzKVeALuCiTyJIFGKyfkg
@@ -60,9 +61,13 @@ https://www.youtube.com/watch?v=0OrmKCB0UrQ
 
 # TCP [basics]
 https://www.youtube.com/watch?v=n-paFbO1hXE
+
 https://www.youtube.com/watch?v=bW_BILl7n0Y
+
 https://www.youtube.com/watch?v=6PBFPOHB9C4
+
 https://www.youtube.com/watch?v=c6DbrBSog74
+
 https://www.youtube.com/watch?v=M_bN1ecKQmQ
 
 
