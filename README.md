@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=B9rLLcVQfpI
 
 https://www.youtube.com/watch?v=Jv2uxzhPFl4
 
-# Nunit:
+# Nunit(.net) - choose what fits ur lang:
 
 https://www.youtube.com/watch?v=uvqAGchg8bc 
 
-# gitflow:
+# GitFlow:
 
 https://www.youtube.com/watch?v=7OTrHx56GfE
 
