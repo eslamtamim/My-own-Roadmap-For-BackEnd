@@ -57,7 +57,7 @@ Project is to make this a roadmap for people to follow along
 [Structural Design Patterns](https://www.youtube.com/playlist?list=PLn05u4nMKcB_QzKVeALuCiTyJIFGKyfkg)
 
 # Network Basics
-[link](https://www.youtube.com/playlist?list=pljejn3kziq45ztd6mjwiltugybvczgbao)
+[اساسيات الشبكات Network Basics](https://www.youtube.com/playlist?list=PLjEjN3kziQ45zTd6MjWiltUgybVCzGBao)
 
 # http(s) [Advanced]
 [Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://youtu.be/0OrmKCB0UrQ)
