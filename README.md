@@ -90,26 +90,22 @@ you can choose to watch whatever you want from all of this but I'm talking about
 
 # More advansed C# :  
 [Mastering C#.NET](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) From vid (10 - ∞)
+
 [Advanced Topics in C#](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
 
 # C# linq (to handel data structurs) :
 [[03] - Language Integrated Query - LINQ | الاستعلامات المتكاملة](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
 
 # Data bases :
-[linl](https://youtu.be/6PBFPOHB9C4)
-https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi
+[15-445/645 Intro to Database Systems (Fall 2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 
 # DBMS (MS SQL Sevrer) :
-SQL (T-SQL):
-[linl](https://youtu.be/6PBFPOHB9C4)
-Basics of SQL (Select - Where - group by and order by) 
-https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW
-[linl](https://youtu.be/6PBFPOHB9C4)
-Intermediate SQL ( joins - union - case statement - having - updating and deleting - aliasing - partition by)
-https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL 
-[linl](https://youtu.be/6PBFPOHB9C4)
-Advanced SQL (CTE - temp Tables - string functions - stored procedures - subqueries)
-https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
+
+[SQL Basics for Data Analysts](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW)
+
+[Intermediate SQL Tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL)
+
+[Advanced SQL Tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU)
 
 # More about MS SQL Server :
 [linl](https://youtu.be/6PBFPOHB9C4)
