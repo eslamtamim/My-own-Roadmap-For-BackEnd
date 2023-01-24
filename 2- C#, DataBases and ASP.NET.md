@@ -55,4 +55,3 @@ you can choose to watch whatever you want from all of this but I'm talking about
 
 
 [ASP.NET Core Long Videos](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBUAlLChHYX3BmtU0NBe30-)
-
