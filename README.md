@@ -2,8 +2,6 @@
 
 here is everything I’m currently learning to become a backend dev/eng
 
-Project is to make this a roadmap for people to follow along 
-
 # Unit Testing: 
 [What is Unit Testing? Why YOU Should Learn It + Easy to Understand Examples
 ](https://youtu.be/3kzHmaeozDI)
