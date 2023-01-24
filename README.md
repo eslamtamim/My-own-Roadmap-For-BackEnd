@@ -48,13 +48,13 @@ Project is to make this a roadmap for people to follow along
 
 [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ)
 
-[link](https://www.youtube.com/playlist?List=pln05u4nmkcb-1bsfb3l-09hkcsgnzhrv7)
+[Creational Design Patterns](https://www.youtube.com/playlist?list=PLn05u4nMKcB-1BSfb3L-09hkcSgNZHrv7)
 
 - Structural:
  
-[link](https://www.youtube.com/playlist?List=plnqalq9hfydcw3viz_oxral_fnkg2dssm)
+[Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm)
 
-[link](https://www.youtube.com/playlist?List=pln05u4nmkcb_qzkvealucityjifgkyfkg)
+[Structural Design Patterns](https://www.youtube.com/playlist?list=PLn05u4nMKcB_QzKVeALuCiTyJIFGKyfkg)
 
 # Network Basics
 [link](https://www.youtube.com/playlist?list=pljejn3kziq45ztd6mjwiltugybvczgbao)
