@@ -69,13 +69,6 @@ here is everything I’m currently learning to become a backend dev/eng
 
 [التحكم في كمية الازدحام TCP Congestion and Flow Control](https://youtu.be/M_bN1ecKQmQ)
 
-
-# Nunit(.net) - choose what fits ur lang:
-
-[C# Unit Tests Using NUnit (.NET) (Beginner)
-](https://youtu.be/uvqAGchg8bc) 
-
-
 # Second, choose the right (lnagudge, database manegment system and the framework)
  
 in my case i choose C#, MS SQL Server and the .NET Framework and it's ASP.NET
