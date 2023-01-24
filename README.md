@@ -46,7 +46,7 @@ Project is to make this a roadmap for people to follow along
 
 - Creational: 
 
-[link](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ)
+[Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ)
 
 [link](https://www.youtube.com/playlist?List=pln05u4nmkcb-1bsfb3l-09hkcsgnzhrv7)
 
@@ -60,16 +60,16 @@ Project is to make this a roadmap for people to follow along
 [link](https://www.youtube.com/playlist?list=pljejn3kziq45ztd6mjwiltugybvczgbao)
 
 # http(s) [Advanced]
-[link](https://youtu.be/0OrmKCB0UrQ)
+[Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://youtu.be/0OrmKCB0UrQ)
 
 # TCP [Basics]
-[link](https://youtu.be/n-paFbO1hXE)
+[TCP in 60 Seconds - Transmission Control Protocol #shorts](https://youtu.be/n-paFbO1hXE)
 
-[link](https://youtu.be/bW_BILl7n0Y)
+[What is the TCP 3-Way Handshake and Why Backend Engineers should understand it](https://youtu.be/bW_BILl7n0Y)
 
-[link](https://youtu.be/6PBFPOHB9C4)
+[الفرق بين TCP و UDP](https://youtu.be/6PBFPOHB9C4)
 
-[link](https://youtu.be/c6DbrBSog74)
+[المصافحة الثلاثية TCP ، ترقيم وتأكيد البيانات](https://youtu.be/c6DbrBSog74)
 
-[link](https://youtu.be/M_bN1ecKQmQ)
+[التحكم في كمية الازدحام TCP Congestion and Flow Control](https://youtu.be/M_bN1ecKQmQ)
 
