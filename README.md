@@ -108,18 +108,13 @@ you can choose to watch whatever you want from all of this but I'm talking about
 [Advanced SQL Tutorials](https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU)
 
 # More about MS SQL Server :
-[linl](https://youtu.be/6PBFPOHB9C4)
-https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj
+[[02] - Databases (MS. SQL Server) | قواعد البيانات](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
 # Entity Framework (EF Core) :
-https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp
-[linl](https://youtu.be/6PBFPOHB9C4)
-
+[[Arabic - بالعربي] Entity Framework Core](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 
 # Intro to .Net :
-https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80
-[linl](https://youtu.be/6PBFPOHB9C4)
-
+[.NET for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
 
 # Intro to ASP.NET : 
 [linl](https://youtu.be/6PBFPOHB9C4)
