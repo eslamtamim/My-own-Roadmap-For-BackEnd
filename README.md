@@ -117,24 +117,22 @@ you can choose to watch whatever you want from all of this but I'm talking about
 [.NET for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
 
 # Intro to ASP.NET : 
-[linl](https://youtu.be/6PBFPOHB9C4)
+[ASP.NET Core for Beginners](https://youtu.be/6PBFPOHB9C4)
 https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy
 
 # How to ASP.NET :
 https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC
-[linl](https://youtu.be/6PBFPOHB9C4)
+[ASP.NET Core مقدمة في تعلم](https://youtu.be/6PBFPOHB9C4)
 
-# CRUD On ASP.NET :
-[linl](https://youtu.be/6PBFPOHB9C4)
-https://www.youtube.com/playlist?list=PLX1bW_GeBRhBUAlLChHYX3BmtU0NBe30-
+# Projects On ASP.NET (CRUD) :
 
-[linl](https://youtu.be/6PBFPOHB9C4)
-https://www.youtube.com/playlist?list=PL62tSREI9C-c-Zw9Pafbd7VQTfZMtn8yQ
+[[Arabic - بالعربي] CRUD Operations ASP.Net MVC 5](https://www.youtube.com/playlist?list=PL62tSREI9C-c-Zw9Pafbd7VQTfZMtn8yQ)
 
 
-[linl](https://youtu.be/6PBFPOHB9C4)
-https://www.youtube.com/playlist?list=PL62tSREI9C-dcOFg2pqSuX3gle5DF3gvH
+[[Arabic - بالعربي] CRUD Operations In ASP.Net 5 (Core/MVC)](https://www.youtube.com/playlist?list=PL62tSREI9C-dcOFg2pqSuX3gle5DF3gvH)
 
+
+[ASP.NET Core Long Videos](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBUAlLChHYX3BmtU0NBe30-)
 
 
 
