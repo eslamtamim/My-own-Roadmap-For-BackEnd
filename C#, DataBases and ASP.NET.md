@@ -39,12 +39,12 @@ you can choose to watch whatever you want from all of this but I'm talking about
 [.NET for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
 
 # Intro to ASP.NET : 
-[ASP.NET Core for Beginners](https://youtu.be/6PBFPOHB9C4)
-https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy
+[ASP.NET Core for Beginners](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy)
+
 
 # How to ASP.NET :
-https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC
-[ASP.NET Core مقدمة في تعلم](https://youtu.be/6PBFPOHB9C4)
+
+[ASP.NET Core مقدمة في تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC)
 
 # Projects On ASP.NET (CRUD) :
 
