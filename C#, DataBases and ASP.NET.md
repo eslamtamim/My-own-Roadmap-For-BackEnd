@@ -1,4 +1,4 @@
-# Second, choose the right (lnagudge, database manegment system and the framework)
+# Second, choose the right (language, database manegment system and the framework)
  
 in my case i choose C#, MS SQL Server and the .NET Framework and it's ASP.NET
 
