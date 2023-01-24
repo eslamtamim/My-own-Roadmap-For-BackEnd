@@ -10,7 +10,7 @@ you can choose to watch whatever you want from all of this but I'm talking about
 # OOP C# : 
 [Microsoft C# - C sharp سي شارب من المبتدئ للاحتراف كامل ](https://www.youtube.com/playlist?list=PLMYF6NkLrdN-S0ZU-r5cZSJSXk3VJ60VJ) From vid (36 - 59) 
 
-# More advansed C# :  
+# More Advanced C# :  
 [Mastering C#.NET](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) From vid (10 - ∞)
 
 [Advanced Topics in C#](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
