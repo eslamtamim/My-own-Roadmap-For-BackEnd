@@ -8,33 +8,39 @@ Project is to make this a roadmap for people to follow along
 [What is Unit Testing? Why YOU Should Learn It + Easy to Understand Examples
 ](https://youtu.be/3kzHmaeozDI)
 
-[link](https://youtu.be/B9rLLcVQfpI)
+[يعني ايه Unit testing وليه كل الدفيلوبرز لازم يتعلموا يكتبوه - سيمي كولون | SemiColon
+](https://youtu.be/B9rLLcVQfpI)
 
-[link](https://youtu.be/Jv2uxzhPFl4)
+[Test-Driven Development // Fun TDD Introduction with JavaScript
+](https://youtu.be/Jv2uxzhPFl4)
 
 # Nunit(.net) - choose what fits ur lang:
 
-[link](https://youtu.be/uvqAGchg8bc) 
+[C# Unit Tests Using NUnit (.NET) (Beginner)
+](https://youtu.be/uvqAGchg8bc) 
 
 # GitFlow:
 
-[link](https://youtu.be/7OTrHx56GfE)
+[يعني ايه Git flow
+](https://youtu.be/7OTrHx56GfE)
 
 # Linux: 
 
-[link](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8KxEi278nugeO6R_9-Cn5o)
+[CompTIA Linux + By Eng-Yasser Ramzy | Arabic
+](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ8KxEi278nugeO6R_9-Cn5o)
 
 # Data Structures (Hash Tables, Trees, Heaps, Graphs):
 
-[link](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+[CS 61B Data Structures, Fall 2020](http://fa20.datastructur.es/)
 
 # Algorithms (Design, Analysis, Known Algorithms):
 
-[link](https://www.youtube.com/playlist?list=PLr7b601VVxDJosOo8vapZWRY2TIrN3omJ)
+[CS 61B Data Structures, Fall 2020](http://fa20.datastructur.es/)
 
-[link](https://www.youtube.com/playlist?list=PL_w_qWAQZtAZ2n35UD2FHgvbXj4pqPQq5)
+[Design and Analysis of Algorithms
+](https://www.youtube.com/playlist?list=PLr7b601VVxDJosOo8vapZWRY2TIrN3omJ)
 
-[link](https://www.youtube.com/playlist?list=PLYT7YDstBQmHr7eumHSrdo1aTMpqrpPDa)
+[Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLYT7YDstBQmHr7eumHSrdo1aTMpqrpPDa)
 
 # Design Patterns
 
